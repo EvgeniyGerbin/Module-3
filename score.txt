@@ -1,0 +1,7 @@
+Name: Jack, Scores: 20
+Name: Max, Scores: 19
+Name: Alex, Scores: 18
+Name: Lisa, Scores: 18
+Name: Lisa, Scores: 24
+Name: Paul, Scores: 6
+Name: Stanislav, Scores: 18
