@@ -1,11 +1,11 @@
 class GameOver(Exception):
     def __str__(self):
-        print('Gameover')
+        return 'Gameover'
 
 
 class EnemyDown(Exception):
     def __str__(self):
-        print('You WIN!!!')
+        return 'You WIN!'
 
 
 class Score:
